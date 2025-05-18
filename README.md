@@ -1,2 +1,3 @@
 # resumo-do-lab_dio-microsoft-azure
 "Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO".
+O Bootcamp Microsoft 50 anos mostrou uma introdução à Azure, abordando de forma clara e didática conceitos fundamentais para utilizar qualquer tecnologia de cloud computing. Foi mostrado o que é necessário levar em conta ao escolher a estrutura que uma instituição deve utilizar, como On Premise, Ambiente Cloud ou um modelo híbrido. Também foram explicadas algumas questões que influenciam no desempenho da cloud computing, como zonas e regiões dos data centers envolvidos. Vimos também os tipos de serviço que podem ser adquiridos ao usar a Cloud Computing As a Service: SaaS, PaaS e IaaS
